@@ -1,2 +1,2 @@
-# warp-browser.github.io
-Project Webpage
+# Website for Warp
+Official project webpage to promote Warp
